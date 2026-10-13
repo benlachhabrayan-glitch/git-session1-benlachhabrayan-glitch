@@ -1,3 +1,5 @@
 Personal development notes.
 
 This project is a way for me to learn more about Git, its commandes, to understand them and apply them in the near future in software development
+
+I will add this line to do a third commit and do the selective staging because I forgot to save in the app.js
